@@ -1,0 +1,1 @@
+cmd_/home/bhaghgyashrid/DRIVER/hello.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/bhaghgyashrid/DRIVER/hello.ko /home/bhaghgyashrid/DRIVER/hello.o /home/bhaghgyashrid/DRIVER/hello.mod.o
